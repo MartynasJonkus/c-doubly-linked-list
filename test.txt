@@ -1,0 +1,11 @@
+-5
+10
+0
+4
+second toLast 9
+0
+first ofAll 9
+3
+inThe middle 9
+
+
